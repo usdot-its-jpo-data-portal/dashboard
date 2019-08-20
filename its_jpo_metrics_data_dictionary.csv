@@ -1,0 +1,42 @@
+﻿Element Name,Element Description,Source Name,Source Table Name,Data Type,Length,List of Values,Security Classification,Archived
+dataset_name,Name of DTG dataset.,ipdh_metrics,dtg_metrics,text,,N/A,Public,No
+views_by_month,Number of views the DTG dataset has for the month.,ipdh_metrics,dtg_metrics,integer,,N/A,Public,No
+monthly_downloads,Number of downloads the DTG dataset has for the month.,ipdh_metrics,dtg_metrics,integer,,N/A,Public,No
+api_access,Number of Socrata API access.,ipdh_metrics,dtg_metrics,integer,,N/A,Public,No
+api_downloads,Number of downloads through Socrata API.,ipdh_metrics,dtg_metrics,integer,,N/A,Public,No
+downloads,Number of downloads.,ipdh_metrics,dtg_metrics,integer,,N/A,Public,No
+datetime,Metrics retrieved datetime.,ipdh_metrics,dtg_metrics,timestamp without time zone,,N/A,Public,No
+id,ID,ipdh_metrics,github_metrics,integer,,N/A,Public,No
+repository,GitHub repository name,ipdh_metrics,github_metrics,text,,N/A,Public,No
+datetime,Metrics retrieved datetime.,ipdh_metrics,github_metrics,timestamp without time zone,,N/A,Public,No
+count,Number of views.,ipdh_metrics,github_metrics,integer,,N/A,Public,No
+uniques,Number of views by unique users.,ipdh_metrics,github_metrics,integer,,N/A,Public,No
+id,ID,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+datetime,Metrics retrieved datetime.,ipdh_metrics,sandbox_metrics,timestamp without time zone,,N/A,Public,No
+pageviews,Number of sandbox site page views.,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+wydot_bsm_downloads,Number of times WYDOT BSM files have been downloaded.,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+wydot_tim_downloads ,Number of times WYDOT TIM files have been downloaded.,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+tampa_bsm_downloads,Number of times Tampa BSM files have been downloaded,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+tampa_spat_downloads,Number of times Tampa SPaT files have been downloaded,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+tampa_tim_downloads,Number of times Tampa TIM files have been downloaded,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+nyc_bsm_downloads,Number of times NYC BSM files have been downloaded,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+nyc_spat_downloads,Number of times NYC SPaT files have been downloaded,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+nyc_map_downloads,Number of times NYC MAP files have been downloaded,ipdh_metrics,sandbox_metrics,integer,,N/A,Public,No
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
